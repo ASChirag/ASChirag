@@ -9,6 +9,9 @@
 </a>  
   
 
+I am A.S Chirag, a Passionate Programmer from India, I have a strong skill and interest in Problem Solving and Learning New Things. I have been Learning through creating various types of projects and learning as I face challenges.   
+  
+
 <br/>  
 
 
