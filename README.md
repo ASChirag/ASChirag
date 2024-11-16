@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aschirag&label=Profile%20views&color=0e75b6&style=flat" alt="aschirag" /> </p>
 
-- 🔭 I’m currently working on **A Personal Project[Confidential]**
+- 🔭 I’m currently working on **A Personal Project [Confidential]**
 
 - 🌱 I’m currently learning **Electron.js, Flask, Computer Vision and other Machine Learning Models and Techniques**
 
