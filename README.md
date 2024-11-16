@@ -27,7 +27,7 @@
 <br/>  
 
 ## Languages and Tools  
-<div align="center">  
+<div align="center" background-color="#363333">  
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px; background-color: #ffffff; padding: 5px; border-radius: 5px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; background-color: #ffffff; padding: 5px; border-radius: 5px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
   <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px; background-color: #ffffff; padding: 5px; border-radius: 5px;" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
