@@ -46,12 +46,12 @@ I am A.S Chirag, a Passionate Programmer from India, I have a strong skill and i
 <p align="center">
   <!-- Your existing GitHub Stats badge -->
   <img src="https://github-readme-stats.vercel.app/api?username=ASChirag&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="ASChirag's GitHub Stats" />
-
+<br/>
   <!-- Your new custom grade badge -->
   <img src="https://img.shields.io/badge/My%20Personal%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="My Personal Grade A+" />
 
   <!-- You can also add GitHub Trophies here if you like -->
-  <img src="https://github-readme-trophies.vercel.app/?username=ASChirag&theme=dark" alt="ASChirag's GitHub Trophies" /> 
+
 </p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
